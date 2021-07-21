@@ -1,7 +1,7 @@
 {
  
   
-    "calibration-controller" : {
+    "calibration-controller" : [
      "certificates": [
   {
     "id": 123,
@@ -30,5 +30,5 @@
        
        
 ]
-    }
+    ]
 }
