@@ -1,6 +1,6 @@
 {
   
-   "calibration-controller" :{
+   
     "certificates": [
   {
     "id": 123,
@@ -29,9 +29,6 @@
        
        
 ]
-   
-   
-   }  
   
   
 }
